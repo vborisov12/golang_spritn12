@@ -1,3 +1,3 @@
-module main
+module citest
 
 go 1.22.2
