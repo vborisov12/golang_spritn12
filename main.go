@@ -1,4 +1,4 @@
-package main
+package citest
 
 import (
 	"fmt"
